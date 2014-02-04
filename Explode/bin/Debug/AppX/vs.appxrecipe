@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEVENDRA</Machine>
+    <WindowsUser>Devendra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>51FD2502290EA7082A3383F5629CD344F111779F52D9F9B1D8705C38A88B8616</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-05T13:42:53.125</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.exe">
+      <PackagePath>Explode.exe</PackagePath>
+      <Modified>2013-12-05T13:42:51.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.pdb">
+      <PackagePath>Explode.pdb</PackagePath>
+      <Modified>2013-12-05T13:42:51.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+      <Modified>2013-10-26T18:26:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen.png">
+      <PackagePath>Assets\loadingscreen.png</PackagePath>
+      <Modified>2013-10-27T18:18:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen.scale-180.png">
+      <PackagePath>Assets\loadingscreen.scale-180.png</PackagePath>
+      <Modified>2013-10-27T18:18:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen2.png">
+      <PackagePath>Assets\loadingscreen2.png</PackagePath>
+      <Modified>2013-10-27T18:24:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\oneballred.png">
+      <PackagePath>Assets\oneballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\oneballyellow.png">
+      <PackagePath>Assets\oneballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\splashscreen2.png">
+      <PackagePath>Assets\splashscreen2.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-27T06:18:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Splashscreengame.png">
+      <PackagePath>Assets\Splashscreengame.png</PackagePath>
+      <Modified>2013-10-27T06:12:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Splashscreengame.scale-180.png">
+      <PackagePath>Assets\Splashscreengame.scale-180.png</PackagePath>
+      <Modified>2013-10-27T06:12:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\splashscreengame2.scale-180.png">
+      <PackagePath>Assets\splashscreengame2.scale-180.png</PackagePath>
+      <Modified>2013-10-27T06:18:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\threeballred.png">
+      <PackagePath>Assets\threeballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\threeballyellow.png">
+      <PackagePath>Assets\threeballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\tile.png">
+      <PackagePath>Assets\tile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-27T21:45:22.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\transparent.png">
+      <PackagePath>Assets\transparent.png</PackagePath>
+      <Modified>2013-10-27T10:29:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\twoballred.png">
+      <PackagePath>Assets\twoballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\twoballyellow.png">
+      <PackagePath>Assets\twoballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\backgroundforgame.jpg">
+      <PackagePath>Assets\backgroundforgame.jpg</PackagePath>
+      <Modified>2013-10-27T06:13:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\GAMERULES.jpg">
+      <PackagePath>Assets\GAMERULES.jpg</PackagePath>
+      <Modified>2013-10-27T15:05:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\startpageofgame.jpg">
+      <PackagePath>Assets\startpageofgame.jpg</PackagePath>
+      <Modified>2013-10-27T06:14:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\winnerpageforgame.jpg">
+      <PackagePath>Assets\winnerpageforgame.jpg</PackagePath>
+      <Modified>2013-10-27T16:23:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\bomb.wav">
+      <PackagePath>Assets\bomb.wav</PackagePath>
+      <Modified>2013-10-27T17:19:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-10-27T15:06:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-26T18:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2013-10-27T17:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Help.xaml">
+      <PackagePath>Help.xaml</PackagePath>
+      <Modified>2013-10-27T16:28:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-27T16:28:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\winner.xaml">
+      <PackagePath>winner.xaml</PackagePath>
+      <Modified>2013-10-27T17:01:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-05T13:42:52.312</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

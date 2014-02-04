@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEVENDRA</Machine>
+    <WindowsUser>Devendra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.exe">
+      <PackagePath>Explode.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.pdb">
+      <PackagePath>Explode.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen.png">
+      <PackagePath>Assets\loadingscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen.scale-180.png">
+      <PackagePath>Assets\loadingscreen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\loadingscreen2.png">
+      <PackagePath>Assets\loadingscreen2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\oneballred.png">
+      <PackagePath>Assets\oneballred.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\oneballyellow.png">
+      <PackagePath>Assets\oneballyellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\splashscreen2.png">
+      <PackagePath>Assets\splashscreen2.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Splashscreengame.png">
+      <PackagePath>Assets\Splashscreengame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\Splashscreengame.scale-180.png">
+      <PackagePath>Assets\Splashscreengame.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\splashscreengame2.scale-180.png">
+      <PackagePath>Assets\splashscreengame2.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\threeballred.png">
+      <PackagePath>Assets\threeballred.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\threeballyellow.png">
+      <PackagePath>Assets\threeballyellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\tile.png">
+      <PackagePath>Assets\tile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\transparent.png">
+      <PackagePath>Assets\transparent.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\twoballred.png">
+      <PackagePath>Assets\twoballred.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\twoballyellow.png">
+      <PackagePath>Assets\twoballyellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\backgroundforgame.jpg">
+      <PackagePath>Assets\backgroundforgame.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\GAMERULES.jpg">
+      <PackagePath>Assets\GAMERULES.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\startpageofgame.jpg">
+      <PackagePath>Assets\startpageofgame.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\winnerpageforgame.jpg">
+      <PackagePath>Assets\winnerpageforgame.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Assets\bomb.wav">
+      <PackagePath>Assets\bomb.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Help.xaml">
+      <PackagePath>Help.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\winner.xaml">
+      <PackagePath>winner.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,234 @@
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\bin\Debug\Explode.exe
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\bin\Debug\Explode.pdb
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\bin\Debug\resources.pri
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\bin\Debug\AppxManifest.xml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\bin\Debug\Explode.build.appxrecipe
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\App.g.i.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\App.g.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\GamePage.g.i.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\GamePage.g.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\MainPage.g.i.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\MainPage.g.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\App.xaml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\GamePage.xaml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\MainPage.xaml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\Explode.exe
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\Explode.pdb
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\priconfig.xml
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\layout.resfiles
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\resources.resfiles
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\pri.resfiles
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\LanguageQualifiers.txt
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rajat Ujawane\Dropbox\CSE Academics\DataStructure and Alogrithm IInd Year\Explode\Explode\obj\Debug\pri.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode\Explode\bin\Debug\Explode.exe
+D:\aaaaaaaaaaa\Explode\Explode\bin\Debug\Explode.pdb
+D:\aaaaaaaaaaa\Explode\Explode\bin\Debug\resources.pri
+D:\aaaaaaaaaaa\Explode\Explode\bin\Debug\AppxManifest.xml
+D:\aaaaaaaaaaa\Explode\Explode\bin\Debug\Explode.build.appxrecipe
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\App.g.i.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\App.g.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\Common\StandardStyles.g.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\GamePage.g.i.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\GamePage.g.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\MainPage.g.i.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\MainPage.g.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\XamlTypeInfo.g.cs
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\App.xaml
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\Common\StandardStyles.xaml
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\GamePage.xaml
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\MainPage.xaml
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\Explode.exe
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\Explode.pdb
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\priconfig.xml.intermediate
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\layout.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\resources.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\pri.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\priconfig.xml
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\layout.resfiles
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\resources.resfiles
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\pri.resfiles
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\LanguageQualifiers.txt
+D:\aaaaaaaaaaa\Explode\Explode\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\bin\Debug\Explode.exe
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\bin\Debug\Explode.pdb
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\bin\Debug\resources.pri
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\bin\Debug\AppxManifest.xml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\bin\Debug\Explode.build.appxrecipe
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\App.g.i.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\App.g.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\GamePage.g.i.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\GamePage.g.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\MainPage.g.i.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\MainPage.g.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\App.xaml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\GamePage.xaml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\MainPage.xaml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\Explode.exe
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\Explode.pdb
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\priconfig.xml
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\layout.resfiles
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\resources.resfiles
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\pri.resfiles
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\LanguageQualifiers.txt
+C:\Users\Rajat Ujawane\Downloads\Explode900\Explode\obj\Debug\ProjectArchitectures.txt
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\App.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\App.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\GamePage.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\GamePage.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\MainPage.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\MainPage.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\XamlTypeInfo.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\App.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\bin\Debug\Explode.exe
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\bin\Debug\Explode.pdb
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\bin\Debug\resources.pri
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\bin\Debug\Explode.build.appxrecipe
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Help.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Help.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\GamePage.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Help.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\MainPage.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Explode.exe
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\Explode.pdb
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\priconfig.xml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\layout.resfiles
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\resources.resfiles
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\pri.resfiles
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\LanguageQualifiers.txt
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\ProjectArchitectures.txt
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\winner.g.i.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\winner.g.cs
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\winner.xaml
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\priconfig.xml.intermediate
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\layout.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\resources.resfiles.intermediate
+D:\aaaaaaaaaaa\Explode-D-1120\Explode\obj\Debug\pri.resfiles.intermediate
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\bin\Debug\Explode.exe
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\bin\Debug\Explode.pdb
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\bin\Debug\resources.pri
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\bin\Debug\Explode.build.appxrecipe
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\App.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\App.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\GamePage.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\GamePage.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Help.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Help.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\MainPage.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\MainPage.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\winner.g.i.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\winner.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\XamlTypeInfo.g.cs
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\App.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\GamePage.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Help.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\MainPage.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\winner.xaml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Explode.exe
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\Explode.pdb
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\priconfig.xml.intermediate
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\layout.resfiles.intermediate
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\resources.resfiles.intermediate
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\pri.resfiles.intermediate
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\priconfig.xml
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\layout.resfiles
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\resources.resfiles
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\pri.resfiles
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\LanguageQualifiers.txt
+D:\Users\Rajat Ujawane\Downloads\1042Explode\Explode-D-1120\Explode\obj\Debug\ProjectArchitectures.txt
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.exe
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.pdb
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\bin\Debug\resources.pri
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.build.appxrecipe
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.g.i.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\XamlTypeInfo.g.cs
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.xaml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Explode.exe
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Explode.pdb
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\priconfig.xml.intermediate
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\layout.resfiles.intermediate
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\resources.resfiles.intermediate
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\pri.resfiles.intermediate
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\priconfig.xml
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\layout.resfiles
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\resources.resfiles
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\pri.resfiles
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\LanguageQualifiers.txt
+D:\aaaaaaaaaaa\EXP LATEST\Explode-D-1120\Explode\obj\Debug\ProjectArchitectures.txt
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.exe
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.pdb
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\resources.pri
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\AppxManifest.xml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\bin\Debug\Explode.build.appxrecipe
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.g.i.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\XamlTypeInfo.g.cs
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\App.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Common\StandardStyles.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\GamePage.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Help.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\MainPage.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\winner.xaml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Explode.exe
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\Explode.pdb
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\priconfig.xml.intermediate
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\layout.resfiles.intermediate
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\resources.resfiles.intermediate
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\pri.resfiles.intermediate
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\priconfig.xml
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\layout.resfiles
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\resources.resfiles
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\pri.resfiles
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\LanguageQualifiers.txt
+D:\code.fun.do\EXP LATEST\Explode-D-1120\Explode\obj\Debug\ProjectArchitectures.txt
